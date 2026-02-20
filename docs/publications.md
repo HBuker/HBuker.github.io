@@ -30,7 +30,7 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/AgentBreeder" class="publication-link">
+            <a href="https://eba.se/en/reports/evidence%e2%80%90based-anti%e2%80%90corruption-evaluation-of-sidas-efforts-to-reduce-corruption-in-partner-countries/21480/" class="publication-link" target="_blank" rel="noopener noreferrer">
                 Evidence-Based Anti-Corruption? Evaluation of Sida's Efforts to Reduce Corruption in Partner Countries
             </a>
         </h3>
