@@ -40,7 +40,7 @@
         <div class="publication-year">2024</div>
         <div class="publication-tags">
             <span class="tag tag-safety">Anti-Corruption Development Cooperation</span>
-            <a href="[https://arxiv.org/abs/2502.00757](https://eba.se/en/reports/evidence%e2%80%90based-anti%e2%80%90corruption-evaluation-of-sidas-efforts-to-reduce-corruption-in-partner-countries/21480/)" class="tag tag-arxiv">ARXIV</a>
+            <a href="[[https://arxiv.org/abs/2502.00757](https://eba.se/en/reports/evidence%e2%80%90based-anti%e2%80%90corruption-evaluation-of-sidas-efforts-to-reduce-corruption-in-partner-countries/21480/)](https://eba.se/en/reports/evidence%e2%80%90based-anti%e2%80%90corruption-evaluation-of-sidas-efforts-to-reduce-corruption-in-partner-countries/21480/)" class="tag tag-arxiv">ARXIV</a>
         </div>
     </div>
 </div>
