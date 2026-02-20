@@ -37,9 +37,14 @@
         <div class="publication-venue">EBA 2024</div>
         <div class="publication-authors">Nistotskaya, M. Buker, H. Grimes, M. Persson, A. D'Arcy, M. Rothstein, B. Gafuri, A. A</div>
         <div class="publication-year">2024</div>
-        <div class="publication-tags">
-            <span class="tag tag-safety">Anti-Corruption Development Cooperation</span>
-            <a href="[https://arxiv.org/abs/2602.09987](https://eba.se/en/reports/evidence%e2%80%90based-anti%e2%80%90corruption-evaluation-of-sidas-efforts-to-reduce-corruption-in-partner-countries/21480/)" class="tag tag-arxiv">EBA</a>
+       <div class="publication-tags">
+    <span class="tag tag-safety">Anti-Corruption Development Cooperation</span>
+        <a href="https://eba.se/en/reports/evidence%e2%80%90based-anti%e2%80%90corruption-evaluation-of-sidas-efforts-to-reduce-corruption-in-partner-countries/21480/"
+           class="tag tag-arxiv"
+           target="_blank"
+           rel="noopener noreferrer">
+           EBA Website
+        </a>
         </div>
     </div>
 </div>
