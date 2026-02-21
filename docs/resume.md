@@ -1,4 +1,4 @@
-# Résumé
+# CV
 
 
 
@@ -40,7 +40,7 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">University of the Fraser Valley Student Union Society</span>
+      <span class="timeline-org">UFV Student Union Society</span>
       <span class="timeline-role">Chief Electoral Officer</span>
       <span class="timeline-dates">Jan 2020 – Mar 2021</span>
     </div>
