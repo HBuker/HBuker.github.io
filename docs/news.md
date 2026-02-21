@@ -46,7 +46,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="uilogo.jpg" alt="Infusion publication">
+        <img src="assets/uilogo.jpg" alt="Infusion publication">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
