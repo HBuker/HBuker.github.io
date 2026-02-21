@@ -1,10 +1,7 @@
 # Portfolio
 
-My personal portfolio website showcasing research in AI Safety and Machine Learning.
+My personal website that I set up to be able to quickly showcase my research, and other relevant events in my life.
 
-**Live site:** 
-
-## Preview
 
 
 
@@ -29,4 +26,6 @@ python -m http.server 8000 -d docs/
 - `docs/styles.css` - Styling
 - `docs/script.js` - Functionality
 
-Inspired by [astro-theme-cactus](https://astro-cactus.chriswilliams.dev/) :)
+
+Template shared by [jrosseruk](https://github.com/jrosseruk)
+Their design is inspired by [astro-theme-cactus](https://astro-cactus.chriswilliams.dev/)
