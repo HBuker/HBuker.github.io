@@ -8,16 +8,16 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="https://arxiv.org/abs/2602.09987" class="publication-link">
                 Scientific and local knowledge in donor anti-corruption efforts: The case of Sida
             </a>
         </h3>
-        <div class="publication-venue">Preprint</div>
+        <div class="publication-venue">Forthcoming, American Behavioral Scientist</div>
         <div class="publication-authors">Buker, H. Nistotskaya, M.</div>
-        <div class="publication-year">Forthcoming, 2026</div>
+        <div class="publication-year">2026</div>
         <div class="publication-tags">
-            <span class="tag tag-safety">Knowledge Development Cooperation</span>
-            <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a>
+            <span class="tag tag-safety">Knowledge</span>
+            <span class="tag tag-safety">Development Cooperation</span>
+            <span class="tag tag-safety">Anti-Corruption</span>
         </div>
     </div>
 </div>
@@ -38,8 +38,11 @@
         <div class="publication-authors">Nistotskaya, M. Buker, H. Grimes, M. Persson, A. D'Arcy, M. Rothstein, B. Gafuri, A. A</div>
         <div class="publication-year">2024</div>
        <div class="publication-tags">
-    <span class="tag tag-safety">Anti-Corruption Development Cooperation</span>
-        <a href="https://eba.se/en/reports/evidence%e2%80%90based-anti%e2%80%90corruption-evaluation-of-sidas-efforts-to-reduce-corruption-in-partner-countries/21480/"
+            <span class="tag tag-safety">Anti-Corruption</span>
+            <span class="tag tag-safety">Corruption</span>
+            <span class="tag tag-safety">Development Cooperation</span>
+            <span class="tag tag-safety">Evaluation</span>
+        <a href="https://eba.se/en/"
            class="tag tag-arxiv"
            target="_blank"
            rel="noopener noreferrer">
