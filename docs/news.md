@@ -50,7 +50,6 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="https://arxiv.org/abs/2602.09987" class="publication-link">
                 Evidence-Based Anti-Corruption? Evaluation of Sida's Efforts to Reduce Corruption in Partner Countries
             </a>
         </h3>
