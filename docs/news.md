@@ -22,7 +22,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/paper_structure.png" alt="Infusion publication">
+        <img src="assets/gulogo.png" alt="Infusion publication">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
@@ -41,7 +41,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/paper_structure.png" alt="Infusion publication">
+        <img src="uilogo.jpg" alt="Infusion publication">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
@@ -61,7 +61,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/paper_structure.png" alt="Infusion publication">
+        <img src="assets/" alt="Infusion publication">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
