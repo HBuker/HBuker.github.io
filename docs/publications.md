@@ -4,7 +4,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/infusion_big_figure.jpg" alt="Infusion publication">
+        <img src="assets/paper_structure.png" alt="Infusion publication">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
