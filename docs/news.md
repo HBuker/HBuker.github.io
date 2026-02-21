@@ -4,11 +4,10 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/paper_structure.png" alt="Infusion publication">
+        <img src="assets/gulogo.png" alt="Infusion publication">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="https://arxiv.org/abs/2602.09987" class="publication-link">
                 Theoretical approaches to corruption and anti-corruption: The Varieties of Corruption approach
             </a>
         </h3>
