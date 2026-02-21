@@ -73,10 +73,11 @@
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="https://gupea.ub.gu.se/items/dab325d7-cc10-4700-924e-1a269d82ed4a" class="publication-link">
-                Policy Pathways to Sustainable Well-Being and Peace through Investments in Institutional Quality, Health Equity and Gender Equality under Crisis and Conflict - Panel 4: Humanitarian assistance and development cooperation in fragile states
+                Policy Pathways to Sustainable Well-Being and Peace through Investments in Institutional Quality, Health Equity and Gender Equality under Crisis and Conflict
             </a>
         </h3>
         <div class="publication-venue">QoG/LANCET Policy Day</div>
+        <div class="publication-venue">Panel 4: Humanitarian assistance and development cooperation in fragile states</div>
         <div class="publication-authors">Buker, H. Persson, A.</div>
         <div class="publication-year">26 Nov 2024</div>
         <div class="publication-tags">
