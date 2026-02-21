@@ -20,7 +20,7 @@
     <div class="timeline-header">
       <span class="timeline-org">Univeristy of Gothenburg</span>
       <span class="timeline-role">Master's Programme in Political Science</span>
-      <span class="timeline-dates">Mar 2025<strong class="text-accent">Present</strong></span>
+      <span class="timeline-dates">Mar 2025</span>
     </div>
     <div class="timeline-desc">Thesis project: "Knowing Knowledges: The role of different knowledge types in driving development outcomes".</div>
   </div>
@@ -31,7 +31,7 @@
     <div class="timeline-header">
       <span class="timeline-org">University of Gothenburg</span>
       <span class="timeline-role">Associate Researcher</span>
-      <span class="timeline-dates">Mar 2023 – Jan 2024<strong class="text-accent">Present</strong></span>
+      <span class="timeline-dates">Mar 2023 – Jan 2024</span>
     </div>
     <div class="timeline-desc">Member of research team investigating Swedish International Development Cooperation Agency (Sida) efforts to reduce corruption in partner countries; funded by the Expert Group for Aid Studies (EBA).</div>
   </div>
@@ -42,7 +42,7 @@
     <div class="timeline-header">
       <span class="timeline-org">The Quality of Government Institute</span>
       <span class="timeline-role">Intern</span>
-      <span class="timeline-dates">Aug 2022 – Jan 2023<strong class="text-accent">Present</strong></span>
+      <span class="timeline-dates">Aug 2022 – Jan 2023</span>
     </div>
     <div class="timeline-desc">Provided research and technical support, contributing to several ongoing projects at the institute.</div>
   </div>
@@ -52,7 +52,7 @@
     <div class="timeline-header">
       <span class="timeline-org">Univeristy of the Fraser Valley</span>
       <span class="timeline-role">Bachelor of Arts</span>
-      <span class="timeline-dates">Jun 2020<strong class="text-accent">Present</strong></span>
+      <span class="timeline-dates">Jun 2020</span>
     </div>
     <div class="timeline-desc">Major in political science, minor in French language.</div>
   </div>
