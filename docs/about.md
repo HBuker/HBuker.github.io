@@ -31,5 +31,4 @@ Through the consultancy I founded in 2025, I offer expert advice to development 
 
 I began my research carreer at the Quality of Government Institute as an intern and then an associate researcher on the EBA-funded project "Evidence-Based Anti-Corruption? Evaluation of Sida's Efforts to Reduce Corruption in Partner Countries."
 
-Something Something personal.
 
