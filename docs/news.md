@@ -34,7 +34,7 @@
         </h3>
         <div class="publication-venue">The Public Administration and Public Policy Seminar (PAPP)</div>
         <div class="publication-venue">University of Gothenburg</div>
-        <div class="publication-authors">Buker, H. Nistotskaya, M.</div>
+        <div class="publication-authors">Buker, H.</div>
         <div class="publication-year">20 Oct 2025</div>
         <div class="publication-tags">
             <span class="tag tag-safety">Knowledge</span>
