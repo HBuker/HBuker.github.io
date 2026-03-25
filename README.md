@@ -1,6 +1,6 @@
 # Portfolio
 
-My personal website that I set up to be able to quickly showcase my research, and other relevant events in my life.
+My personal website that I set up using a public template by jrosseruk (see link at bottom of readme) to be able to quickly showcase my research, and other relevant events in my life.
 
 
 
