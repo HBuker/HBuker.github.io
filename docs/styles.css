@@ -1369,3 +1369,12 @@ html {
 .collapsible-section[open] summary {
   margin-bottom: 1rem;
 }
+
+[data-theme"dark"] .collapsible-section{
+    background: #1f2937;
+    border-color: #374151;
+}
+
+[data-theme="dark"] .collapsible-section summary {
+  color: #f9fafb;
+}
