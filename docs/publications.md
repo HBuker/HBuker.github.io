@@ -13,7 +13,6 @@
             </a>
         </h3>
         <div class="publication-venue">American Behavioral Scientist</div>
-        <div class="publication-venue">
         <div class="publication-authors">Buker, H. Nistotskaya, M.</div>
         <div class="publication-year">2026</div>
         <div class="publication-tags">
