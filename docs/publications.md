@@ -8,10 +8,12 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
+            <a href="https://journals.sagepub.com/doi/10.1177/00027642261484343" class="publication-link" target="_blank" rel="noopener noreferrer">
                 Scientific and local knowledge in donor anti-corruption efforts: The case of Sida
             </a>
         </h3>
-        <div class="publication-venue">Forthcoming, American Behavioral Scientist</div>
+        <div class="publication-venue">American Behavioral Scientist</div>
+        <div class="publication-venue">
         <div class="publication-authors">Buker, H. Nistotskaya, M.</div>
         <div class="publication-year">2026</div>
         <div class="publication-tags">
