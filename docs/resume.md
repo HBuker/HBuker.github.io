@@ -20,7 +20,7 @@
     <div class="timeline-header">
       <span class="timeline-org">Hayden Buker Consulting</span>
       <span class="timeline-role">Aid Consultant</span>
-      <span class="timeline-dates">May 2025 – <strong class="text-accent">Present</strong></span>
+      <span class="timeline-dates">May 2025 – May 2026</span>
     </div>
     <div class="timeline-desc">Founded company to provide expert consultancy on evaluating development cooperation. Contracted by the German Institute for Development Evaluation (DEval).</div>
   </div>
