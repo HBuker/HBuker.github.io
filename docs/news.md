@@ -14,7 +14,7 @@
         <div class="publication-venue">Lecture</div>
         <div class="publication-venue">University of Gothenburg</div>
         <div class="publication-authors">Buker, H. Nistotskaya, M.</div>
-        <div class="publication-year">Forthcoming, 26 Feb 2026</div>
+        <div class="publication-year">26 Feb 2026</div>
         <div class="publication-tags">
             <span class="tag tag-safety">Corruption</span>
             <span class="tag tag-safety">Quality of Government</span>
