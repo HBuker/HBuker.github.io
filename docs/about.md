@@ -25,10 +25,10 @@
   </div>
 </div>
 
-I am a political scientist and aid consultant specializing in anti-corruption, governance in transnational contexts and institutional complexity. My research has focused largely on corruption and anti-corruption efforts in development cooperation and how different kinds of knowledge resources affect outcomes in development efforts and are used as legitimacy strategies by public officials.
+I am a political scientist and aid consultant with a focus in anti-corruption, governance in transnational contexts and institutional complexity. My research has largely addressed corruption and anti-corruption efforts in development cooperation and how different kinds of knowledge resources affect outcomes in development efforts and are used as legitimacy strategies by public officials.
 
 Through the consultancy I founded in 2025, I offer expert advice to development actors on how to evaluate development cooperation efforts, especially concerning anti-corruption approaches and the construction and reconstruction of theories of anti-corruption change. At the same time I have enrolled in several university courses to supplement my methodological training in quantitative statistics, as well as several Swedish language courses.
 
-I began my research carreer at the Quality of Government Institute as an intern and then an associate researcher on the EBA-funded project "Evidence-Based Anti-Corruption? Evaluation of Sida's Efforts to Reduce Corruption in Partner Countries."
+I began my research career at the Quality of Government Institute as an intern and then an associate researcher on the EBA-funded project "Evidence-Based Anti-Corruption? Evaluation of Sida's Efforts to Reduce Corruption in Partner Countries" and have most recently found employment with the Department for Peace and Conflict Research at Uppsala University as a Research Assistant.
 
 
