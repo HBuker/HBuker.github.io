@@ -7,6 +7,17 @@
 <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
+        <span class="timeline-org">Department for Peace and Conflict Research</span>
+        <span class="timeline-org">Uppsala University</span>
+        <span class="timeline-role">Research Assistant</span>
+        <span class="timeline-dates">Apr 2026 - Mar 2027</span>
+    </div>
+    <div class="timeline-desc">Employed on a pilot project for the construction of a database on war crimes prosecution and on the Non-Warring Actors in Peacemaking (NoWA) dataset. </div>
+</div>
+
+<div class="timeline-item">
+    <span class="timeline-dot"></span>
+    <div class="timeline-header">
       <span class="timeline-org">Hayden Buker Consulting</span>
       <span class="timeline-role">Aid Consultant</span>
       <span class="timeline-dates">May 2025 – <strong class="text-accent">Present</strong></span>
